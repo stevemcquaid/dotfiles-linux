@@ -1,5 +1,6 @@
 #!/bin/bash
 
+apt-get install xserver-xorg-core
 apt-get install -y xserver-xorg-input-mtrack
 apt-get install -y screen
 
